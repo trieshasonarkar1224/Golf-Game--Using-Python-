@@ -1,7 +1,7 @@
-# Golf-Game--Using-Python-
+# Golf-Game-Using-Python ⭐ 
 <di>
 
-This is a 9 hole 2D golf game created using pygame.  
+ ⭐ This is a 9 hole 2D golf game created using pygame.  
 
 # Requirements
 - Python 3.x
